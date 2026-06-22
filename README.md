@@ -1,5 +1,4 @@
-# supermarket-sale-analysis
-Exploratory data analysis of supermarket sales using Python (pandas, seaborn, matplotlib) — 1,000 transactions across product lines, customer segments, and payment methods.
+
 # Supermarket Sales Analysis
 
 Exploratory analysis of 1,000 supermarket transactions (17 variables) in Python, looking at what actually drives revenue across product lines, customer types, and payment methods.
